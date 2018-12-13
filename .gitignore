@@ -1,0 +1,4 @@
+logs
+*.log
+Dockerfile
+config.json
